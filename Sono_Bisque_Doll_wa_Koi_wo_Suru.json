@@ -12,6 +12,62 @@
       "groups": {
         "Church of Potteto": "/proxy/api/imgchest/chapter/ne7bdbogj45"
       }
+    },
+    "23.5": {
+      "title": "Vol. 3 Extras",
+      "volume": "3",
+      "last_updated": "1747604144",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/9rydmbo5lyk"
+      }
+    },
+    "31.5": {
+      "title": "Vol. 4 Extras",
+      "volume": "4",
+      "last_updated": "1747604173",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/ej7mwormnyd"
+      }
+    },
+    "39.5": {
+      "title": "Vol. 5 Extras",
+      "volume": "5",
+      "last_updated": "1747604205",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/n87wdo26g4x"
+      }
+    },
+    "47.5": {
+      "title": "Vol. 6 Extras",
+      "volume": "6",
+      "last_updated": "1747604248",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/qe4gjbkdj4j"
+      }
+    },
+    "55.5": {
+      "title": "Vol. 7 Extras",
+      "volume": "7",
+      "last_updated": "1747604278",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/o24aqbop27l"
+      }
+    },
+    "63.5": {
+      "title": "Vol. 8 Extras",
+      "volume": "8",
+      "last_updated": "1747604310",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/agyvqoadj48"
+      }
+    },
+    "71.5": {
+      "title": "Vol. 9 Extras",
+      "volume": "9",
+      "last_updated": "1747604355",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/md7owo3gr4p"
+      }
     }
   }
 }
