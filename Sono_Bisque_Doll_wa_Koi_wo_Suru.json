@@ -4,5 +4,14 @@
   "artist": "Fukuda Shinichi",
   "author": "Fukuda Shinichi",
   "cover": "https://raw.githubusercontent.com/COP-Uploads/ChurchOfPottetoCubariSources/refs/heads/main/Covers/Sono_Bisque_Doll_wa_Koi_wo_Suru.png",
-  "chapters": {}
+  "chapters": {
+    "7.5": {
+      "title": "Vol. 1 Extras",
+      "volume": "1",
+      "last_updated": "1747603980",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/ne7bdbogj45"
+      }
+    }
+  }
 }
