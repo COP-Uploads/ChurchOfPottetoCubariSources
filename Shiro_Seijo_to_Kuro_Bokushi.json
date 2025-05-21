@@ -4,5 +4,78 @@
   "artist": "Kazutake Hazano",
   "author": "Kazutake Hazano",
   "cover": "https://cdn.imgchest.com/files/4gdcx59qwl4.png",
-  "chapters": {}
+  "chapters": {
+    "67": {
+      "title": "Cecilia & the Lady Saint, Part 3",
+      "volume": "12",
+      "last_updated": "1747796642",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/md7own38l4p"
+      }
+    },
+    "72": {
+      "title": "Lawrence and Hazelita",
+      "volume": "13",
+      "last_updated": "1747796783",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/vj4jkaj8978"
+      }
+    },
+    "73": {
+      "title": "Eric and Abel",
+      "volume": "13",
+      "last_updated": "1747796835",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/ej7mwxr8ayd"
+      }
+    },
+    "74": {
+      "title": "The Usual Couple",
+      "volume": "13",
+      "last_updated": "1747796869",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/lqye2eomzyd"
+      }
+    },
+    "75": {
+      "title": "The Couple's Worries",
+      "volume": "13",
+      "last_updated": "1747796891",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/xny8vd8mw7b"
+      }
+    },
+    "76": {
+      "title": "An Infrequent Visitor",
+      "volume": "13",
+      "last_updated": "1747796915",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/o24aqroje7l"
+      }
+    },
+    "77": {
+      "title": "One-Sided Feelings",
+      "volume": "13",
+      "last_updated": "1747796949",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/9249wr538yn"
+      }
+    },
+    "78": {
+      "title": "The Couple's World",
+      "volume": "13",
+      "last_updated": "1747796988",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/dl7pe2wajyo"
+      }
+    },
+    "78.5": {
+      "title": "Vol. 13 Extras",
+      "volume": "13",
+      "last_updated": "1747797018",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/vj4jkaje978"
+      }
+    }
+  }
 }
