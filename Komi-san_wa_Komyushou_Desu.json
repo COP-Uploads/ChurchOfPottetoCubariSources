@@ -14,11 +14,91 @@
       }
     },
     "385": {
-      "title": "Wake-Up Surprise",
+      "title": "Wake-up Surprise",
       "volume": "29",
       "last_updated": "1747791263",
       "groups": {
         "Church of Potteto, Sho Habby Scans": "/proxy/api/imgchest/chapter/vj4jka5b278"
+      }
+    },
+    "394": {
+      "title": "Riverside Death Game.",
+      "volume": "30",
+      "last_updated": "1747791406",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/ne7bdmrmn45"
+      }
+    },
+    "395": {
+      "title": "Failed Attempt?",
+      "volume": "30",
+      "last_updated": "1747791467",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/wl7lgvlvpyx"
+      }
+    },
+    "396": {
+      "title": "Side Stories from Camp.",
+      "volume": "30",
+      "last_updated": "1747791514",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/vj4jka5a278"
+      }
+    },
+    "399": {
+      "title": "Haircut.",
+      "volume": "30",
+      "last_updated": "1747792070",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/agyvqkg5948"
+      }
+    },
+    "400": {
+      "title": "3rd Year Summer Festival.",
+      "volume": "30",
+      "last_updated": "1747792144",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/md7owndmd4p"
+      }
+    },
+    "401": {
+      "title": "3rd Year Summer Festival, Part 2.",
+      "volume": "30",
+      "last_updated": "1747792180",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/5xy2a9xk97l"
+      }
+    },
+    "402": {
+      "title": "Kawai-san's House.",
+      "volume": "31",
+      "last_updated": "1747792312",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/qe4gjgzaj4j"
+      }
+    },
+    "403": {
+      "title": "The Buta House.",
+      "volume": "31",
+      "last_updated": "1747792334",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/bp45pljwqy5"
+      }
+    },
+    "411": {
+      "title": "Summe Festival for Two.",
+      "volume": "31",
+      "last_updated": "1747792356",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/agyvqkgmj48"
+      }
+    },
+    "500": {
+      "title": "We're in University.",
+      "volume": "37",
+      "last_updated": "1747792397",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/9249wrmomyn"
       }
     },
     "388.5": {
@@ -26,7 +106,23 @@
       "volume": "29",
       "last_updated": "1747791307",
       "groups": {
-        "Church of Potteto, Sho Habby Scans": "/proxy/api/imgchest/chapter/pg73gn2vzyr"
+        "Church of Potteto": "/proxy/api/imgchest/chapter/pg73gn2vzyr"
+      }
+    },
+    "401.5": {
+      "title": "Vol. 30 Extras",
+      "volume": "30",
+      "last_updated": "1747791904",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/agyvqkg3j48"
+      }
+    },
+    "500.5": {
+      "title": "Vol. 37 Extras",
+      "volume": "37",
+      "last_updated": "1747792456",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/9p4nw9q5m4n"
       }
     }
   }
