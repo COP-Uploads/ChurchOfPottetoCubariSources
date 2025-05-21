@@ -4,5 +4,30 @@
   "artist": "Oda Tomohito",
   "author": "Oda Tomohito",
   "cover": "https://cdn.imgchest.com/files/7lxcpn35r67.png",
-  "chapters": {}
+  "chapters": {
+    "378": {
+      "title": "Tadano-kun's Middle School Years — Part 2",
+      "volume": "29",
+      "last_updated": "1747791180",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/ne7bdmrbn45"
+      }
+    },
+    "385": {
+      "title": "Wake-Up Surprise",
+      "volume": "29",
+      "last_updated": "1747791263",
+      "groups": {
+        "Church of Potteto, Sho Habby Scans": "/proxy/api/imgchest/chapter/vj4jka5b278"
+      }
+    },
+    "388.5": {
+      "title": "Vol. 29 Extras",
+      "volume": "29",
+      "last_updated": "1747791307",
+      "groups": {
+        "Church of Potteto, Sho Habby Scans": "/proxy/api/imgchest/chapter/pg73gn2vzyr"
+      }
+    }
+  }
 }
