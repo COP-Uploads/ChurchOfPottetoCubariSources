@@ -4,5 +4,46 @@
   "artist": "Doumoto Yuuki",
   "author": "Doumoto Yuuki",
   "cover": "https://cdn.imgchest.com/files/46acqkvjvm7.jpg",
-  "chapters": {}
+  "chapters": {
+    "35": {
+      "title": "A Childhood Friend Who Won't Share",
+      "volume": "5",
+      "last_updated": "1747795418",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/o24aqro3e7l"
+      }
+    },
+    "36": {
+      "title": "My Childhood Friend Is Bugged",
+      "volume": "5",
+      "last_updated": "1747795481",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/9249wr5v8yn"
+      }
+    },
+    "37": {
+      "title": "A Childhood Friend Who Accepts It",
+      "volume": "5",
+      "last_updated": "1747795557",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/9p4nw9mn54n"
+      }
+    },
+    "38": {
+      "title": "Childhood Friends That Go Out in Secret",
+      "volume": "5",
+      "last_updated": "1747795619",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/5xy2a9ma37l"
+      }
+    },
+    "39": {
+      "title": "A Childhood Friend Who Tries to Blend In",
+      "volume": "5",
+      "last_updated": "1747795678",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/ljyqxlexx42"
+      }
+    }
+  }
 }
