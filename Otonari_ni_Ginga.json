@@ -4,5 +4,46 @@
   "artist": "Amagakure Gido",
   "author": "Amagakure Gido",
   "cover": "https://cdn.imgchest.com/files/45xcvdmrrp7.png",
-  "chapters": {}
+  "chapters": {
+    "11": {
+      "title": "Princess and Saturn",
+      "volume": "3",
+      "last_updated": "1747793754",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/m9yxrwlvpyq"
+      }
+    },
+    "12": {
+      "title": "Princess and Family Meeting",
+      "volume": "3",
+      "last_updated": "1747793823",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/dl7pe2wq3yo"
+      }
+    },
+    "13": {
+      "title": "Kuga-san and Removing the Thorn",
+      "volume": "3",
+      "last_updated": "1747793866",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/9rydmwopayk"
+      }
+    },
+    "14": {
+      "title": "Princess and a Date",
+      "volume": "3",
+      "last_updated": "1747793937",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/pg73gn3jgyr"
+      }
+    },
+    "15": {
+      "title": "Princess and Fireworks",
+      "volume": "3",
+      "last_updated": "1747794010",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/9p4nw9mlb4n"
+      }
+    }
+  }
 }
