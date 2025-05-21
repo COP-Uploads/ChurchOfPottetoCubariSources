@@ -4,5 +4,86 @@
   "artist": "Hanatsuka Shiori",
   "author": "Hanatsuka Shiori",
   "cover": "https://cdn.imgchest.com/files/yrgcng5lww4.png",
-  "chapters": {}
+  "chapters": {
+    "71": {
+      "title": "Our First Camping Trip — Part 1",
+      "volume": "9",
+      "last_updated": "1747798827",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/ljyqxlemk42"
+      }
+    },
+    "72": {
+      "title": "Our First Camping Trip — Part 2",
+      "volume": "9",
+      "last_updated": "1747798896",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/6eyr9jz3kyp"
+      }
+    },
+    "73": {
+      "title": "The Ring's Whereabouts",
+      "volume": "9",
+      "last_updated": "1747798945",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/o24aqroog7l"
+      }
+    },
+    "74": {
+      "title": "A Luxurious Pudding Parfait for One",
+      "volume": "9",
+      "last_updated": "1747798977",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/m9yxrwllmyq"
+      }
+    },
+    "75": {
+      "title": "The Regular Saturday Lunch Menu",
+      "volume": "9",
+      "last_updated": "1747799004",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/9p4nw9mmw4n"
+      }
+    },
+    "76": {
+      "title": "A Sofa of Happiness",
+      "volume": "9",
+      "last_updated": "1747799029",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/dl7pe2ww8yo"
+      }
+    },
+    "77": {
+      "title": "Shougayaki, Picked with Love!",
+      "volume": "9",
+      "last_updated": "1747799057",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/md7own33a4p"
+      }
+    },
+    "78": {
+      "title": "A Tomahawk Steak to Celebrate a Promotion!",
+      "volume": "9",
+      "last_updated": "1747799150",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/ljyqxleee42"
+      }
+    },
+    "79": {
+      "title": "Early Summer Recipe Program with Grilled Fava Beans",
+      "volume": "9",
+      "last_updated": "1747799282",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/agyvqkabw48"
+      }
+    },
+    "79.5": {
+      "title": "Vol. 9 Extras",
+      "volume": "9",
+      "last_updated": "1747799360",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/na7km6qgk48"
+      }
+    }
+  }
 }
