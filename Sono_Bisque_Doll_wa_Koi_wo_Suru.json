@@ -3,7 +3,7 @@
   "description": "Wakana Gojou is a fifteen year old high-school boy who was socially traumatized in the past due to his passions. That incident left a mark on him that made him into a social recluse. Until one day he had an encounter with Kitagawa who is a sociable gyaru, who is the complete opposite of him. They soon share their passions with one another which leads to their odd relationship.\n\nOfficial Raw: https://magazine.jp.square-enix.com/yg/introduction/sonobisque/\nBookwalker: https://bookwalker.jp/series/181406/list/\nMangaUp: https://global.manga-up.com/manga/113\nAmazon US: https://www.amazon.com/dp/B087BZ4T6J\n\nChurch of Potteto Discord: https://discord.gg/pMZp9DTKBe",
   "artist": "Fukuda Shinichi",
   "author": "Fukuda Shinichi",
-  "cover": "https://cdn.imgchest.com/files/4jdcvnze3j4.png",
+  "cover": "https://cdn.imgchest.com/files/739cx6klxj7.png",
   "chapters": {
     "77": {
       "title": "",
@@ -427,6 +427,13 @@
       "last_updated": "1747671971",
       "groups": {
         "Church of Potteto": "/proxy/api/imgchest/chapter/6eyr9oq5xyp"
+      },
+    "115.5": {
+      "title": "Epilogue",
+      "volume": "",
+      "last_updated": "1751947789",
+      "groups": {
+        "Church of Potteto": "/proxy/api/imgchest/chapter/lqyegw8rm7d"
       }
     }
   }
